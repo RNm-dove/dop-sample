@@ -1,0 +1,17 @@
+{
+  "name": "dop-sample",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/lodash": "^4.14.201",
+    "bun-types": "latest",
+    "prettier": "^3.1.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "zod": "^3.22.4"
+  }
+}
